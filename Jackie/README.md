@@ -2,8 +2,6 @@
 
 If you had an algorithm to monitor and *long* the market from 2015, how much money could you have possibly *made* ? As a long term optimist for the cryptocurrency market, in this project we created a dual moving average crossover strategy that would have longed position of BTC and ETH during the years between 2015 till now.
  
-![Credit Risk](Images/credit-risk.jpg)
-
 ## Methods
 
 * Create a short-term moving average and a long-term moving average from the BTC closing prices using the `rolling` and `mean` functions.
