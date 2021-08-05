@@ -40,6 +40,8 @@ If you had an algorithm to monitor and *long* the market from 2015, how much mon
 
 ![SMA4-SMA100](SMA4-100-backtesting.png)
 
+![SMA2-SMA10](SMA2-10-backtesting.png)
+
 * When performing the higher frequency algotrading to ETH between 2015 and now, the profit is lower than BTC.
 
 ![ETH-SMA4-SMA100](ETH.png)
